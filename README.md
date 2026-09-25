@@ -1,5 +1,5 @@
-figma link : https://www.figma.com/proto/VTjBi0CbEhnVxl6zGMdS9J/Untitled?node-id=0-1&t=mgrmvdctbOdghG81-1
-prototype link :figma.com/proto/VTjBi0CbEhnVxl6zGMdS9J/Untitled?node-id=2-2&p=f&t=mgrmvdctbOdghG81-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2
+figma link : https://www.figma.com/design/VTjBi0CbEhnVxl6zGMdS9J/Untitled?node-id=0-1&p=f&t=mgrmvdctbOdghG81-0
+prototype link : https://www.figma.com/proto/VTjBi0CbEhnVxl6zGMdS9J/Untitled?node-id=0-1&t=mgrmvdctbOdghG81-1 
 # 🛍️ Fashion Shopping Cart Flow
 
 A modern and user-friendly **Fashion Shopping Cart Mobile App UI** designed in Figma.  
